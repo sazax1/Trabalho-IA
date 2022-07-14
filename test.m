@@ -1,5 +1,5 @@
 % Universidade Federal de Mato Grosso
-% Instituto de Engenharia
+% 
 % Script Octave/MATLAB que deve ser utilizado para testar a implementacao.
 
 
