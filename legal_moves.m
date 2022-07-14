@@ -1,5 +1,4 @@
 % Universidade Federal de Mato Grosso
-% Instituto de Engenharia
 %
 % Funcao Octave/MATLAB que implementa a descricao das ações validas em 
 % um estado do quebra-cabeca de oito pecas.
