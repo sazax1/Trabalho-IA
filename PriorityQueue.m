@@ -1,16 +1,12 @@
 % Universidade Federal de Mato Grosso
-% Instituto de Engenharia
+% 
 % Classe Octave/MATLAB que implementa a fila de prioridades.
-%
 % Para criar um fila de prioridades vazia:
 % q = PriorityQueue() ;
-%
 % Para inserir um noh n com prioridade p em uma fila q ja criada:
 % q.insert(p, n) ;
-% 
 % Para remover um noh m com a menor prioridade:
 % extracMin assim:
-% 
 % m = q.extractMin();
 % 
 
