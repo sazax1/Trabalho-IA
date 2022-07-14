@@ -1,15 +1,11 @@
 % Universidade Federal de Mato Grosso
-% Instituto de Engenharia
 %
 % Funcao Octave/MATLAB que deve implementar o algoritmo A-estrela.
 % A funcao deve receber uma matriz __M__ com estado inicial do quebra-cabeca o apontador para a funcao heuristica __h__ e devolver um noh de busca __n__ com o estado objetivo.
-% 
 % Para que seja possivel reconstruir o caminho percorrido ate a solucao,  cada numero produzido pelo algoritmo de busca deve conter uma referencia para o numero que o descobriu (i.e., noh visitado no passo anterior). 
-%
 % Para executar o algoritmo para um estado S com heuristica de hamming por exemplo pode-ser fazer:
 % S = [4 1 3; 9 2 5; 7 8 6];
 % node = astar(S, @hamming);
-% 
 % A variavel __error__ será utilizada para identificar jogos que nao possuem solucao. 
 % 
 
