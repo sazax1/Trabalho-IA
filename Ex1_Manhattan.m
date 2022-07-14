@@ -1,5 +1,4 @@
 % Universidade Federal de Mato Grosso
-% Instituto de Engenharia
 %
 
 
