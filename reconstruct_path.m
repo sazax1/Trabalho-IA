@@ -1,5 +1,5 @@
 % Universidade Federal de Mato Grosso
-% Instituto de Engenharia
+%
 % Funcao Octave/MATLAB que mostra o caminho percorrido em solucao do quebra-cabeca.
 % A funcao recebe um noh de busca __node__ e mostra o caminho percorrido.
 %
