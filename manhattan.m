@@ -1,5 +1,4 @@
 % Universidade Federal de Mato Grosso
-% Instituto de Engenharia
 %
 % Funcao Octave/MATLAB que deve implementar a heuristica de manhattan.
 % A funcao deve receber uma matriz __State__ representando um estado 
@@ -14,7 +13,7 @@ function dist = manhattan(State)
         obj = [1 2 3; 4 5 6; 7 8 9]; % o estado objetivo que deve ser alcancado
 	    dist = 0;
         
-        for i = 1:8 % laco que ir· percorrer as 8 posicoes
+        for i = 1:8 % laco que ir√° percorrer as 8 posicoes
         
             [a ,b ] = find(obj==i); % a e x representam linhas , b e y representam colunas
             [x ,y ] = find(E==i);   % compara se o objetivo e o estado ate que sejam iguais 
