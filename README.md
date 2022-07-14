@@ -23,5 +23,5 @@ Execute os arquivos:
 
 ## ✒️ Autores
 
-* João Vitor - [Joao Vitor](https://github.com/sazax1)
+* [Joao Vitor](https://github.com/sazax1)
 * Payam Kaffashi
