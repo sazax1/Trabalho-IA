@@ -1,5 +1,5 @@
 % Universidade Federal de Mato Grosso
-% Instituto de Engenharia
+% 
 % Funcao Octave/MATLAB que mostra um estado do jogo na tela.
 %
 
