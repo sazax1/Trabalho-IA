@@ -1,23 +1,16 @@
 % Universidade Federal de Mato Grosso
-% Instituto de Engenharia
 %
 % Classe Octave/MATLAB que implementa a descricao dos nohs de busca.
-%
 % Cada noh de contam uma referencia para o noh que o descobriu (i.e., noh visitado
 % no passo anterior), o estado atual (i.e., configuracao da matriz) e 
 % o numero de movimentos feitos ate o momento. 
-%
 % Para criar um novo noh de busca n:
-% 
 % n = Node(State, cost);
-%
 % em que State e cost correspondem, respectivamente, ao estado e ao custo
 % do noh. O custo do noh e igual ao numero de passos efetivamente percorridos
 % pelo algoritmo ate sua descoberta (i.e., o custo de um noh nao-raiz e
 % 1 (um) mais o custo do noh que descobriu).
-%
-% a função abaixo indica que o noh n foi descoberto pelo noh p.
-%
+% A funÃ§Ã£o abaixo indica que o noh n foi descoberto pelo noh p.
 % n.Prev = p;
 %
 
